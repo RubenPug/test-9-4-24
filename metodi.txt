@@ -1,0 +1,4 @@
+metodo get : /ticket/:id
+metodo post :/ticket
+metodo put :/ticket/:id
+metodo delete: /ticket/:id
